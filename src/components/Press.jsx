@@ -1,4 +1,4 @@
-import React, {useEffect,useState} from "react"
+import React, {useState} from "react"
 import {useTrail, animated,config } from "react-spring";
 import {withRouter, useHistory } from "react-router-dom";
 import { trailImg } from "./trail";
