@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import {useTrail, animated,config } from "react-spring";
-import {withRouter, useHistory } from "react-router-dom";
+import {useHistory } from "react-router-dom";
 import { trailImg } from "./trail";
 
 function Pricing() {
